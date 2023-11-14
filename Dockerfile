@@ -1,1 +1,1 @@
-FROM node18
+FROM node18.1
