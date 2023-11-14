@@ -1,1 +1,1 @@
-FROM node17
+FROM node18
